@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--fantastic-octo-happiness--akalfas.hlx.page/
-- Live: https://main--fantastic-octo-happiness--akalfas.hlx.live/
+- Preview: https://main--tutorials--akalfas.hlx.page/
+- Live: https://main--tutorials--akalfas.hlx.live/
 
 ## Installation
 
